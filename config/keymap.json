@@ -42,11 +42,11 @@
        "&kp LSHFT",     "&kp Z",    "&kp X",    "&kp C",     "&kp V",     "&kp B",             "&none",    "&none",  "&kp HOME",     "&none",         "&none", "&kp PG_UP",     "&none",     "&none",    "&kp N",  "&kp M", "&kp COMMA", "&kp DOT", "&kp FSLH", "&kp RSHFT",
            "&mo 2", "&kp GRAVE", "&kp CAPS", "&kp LEFT", "&kp RIGHT", "&kp SPACE",           "&kp DEL",  "&kp END", "&kp PG_DN", "&kp ENTER", "&kp BACKSPACE",    "&kp UP",  "&kp DOWN",  "&kp LBKT", "&kp RBKT",  "&mo 2"
     ], [
-       "&trans",   "&trans",   "&trans", "&trans",    "&trans",       "&trans",           "&trans", "&trans", "&trans", "&trans",    "&trans", "&trans", "&trans", "&trans",
-       "&trans",   "&trans",   "&trans", "&trans",    "&trans",       "&trans",           "&trans", "&trans", "&trans", "&kp N5",    "&kp N6", "&trans", "&trans", "&trans",
-       "&trans", "&kp LEFT", "&kp DOWN", "&kp UP", "&kp RIGHT",       "&trans",           "&trans", "&trans", "&trans",                        "&trans", "&trans", "&trans", "&trans", "&kp N1", "&kp N2", "&kp N3", "&kp N4", "&trans",
-       "&trans",   "&trans",   "&trans", "&trans",    "&trans",       "&trans",           "&trans", "&trans",  "&kp A", "&trans",    "&trans",  "&kp J", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
-       "&trans",   "&trans",   "&trans", "&trans",    "&trans", "&kp LEFT_ALT",            "&kp Z",  "&kp S",  "&kp K", "&trans", "&kp RCTRL", "&trans", "&trans", "&trans", "&trans", "&trans"
+       "&trans",   "&trans",   "&trans", "&trans",    "&trans",       "&trans",           "&trans", "&trans", "&trans",      "&trans",        "&trans", "&trans", "&trans", "&trans",
+       "&trans",   "&trans",   "&trans", "&trans",    "&trans",       "&trans",           "&trans", "&trans", "&trans", "&kp PAGE_UP", "&kp PAGE_DOWN", "&trans", "&trans", "&trans",
+       "&trans", "&kp LEFT", "&kp DOWN", "&kp UP", "&kp RIGHT",       "&trans",           "&trans", "&trans", "&trans",                                 "&trans", "&trans", "&trans", "&trans", "&kp INS", "&kp HOME", "&kp DEL", "&kp END", "&trans",
+       "&trans",   "&trans",   "&trans", "&trans",    "&trans",       "&trans",           "&trans", "&trans",  "&kp A",      "&trans",        "&trans",  "&kp J", "&trans", "&trans", "&trans",  "&trans",   "&trans",  "&trans",  "&trans", "&trans",
+       "&trans",   "&trans",   "&trans", "&trans",    "&trans", "&kp LEFT_ALT",            "&kp Z",  "&kp S",  "&kp K",      "&trans",     "&kp RCTRL", "&trans", "&trans", "&trans", "&trans",  "&trans"
     ]
   ]
 }
