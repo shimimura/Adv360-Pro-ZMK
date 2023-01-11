@@ -89,11 +89,11 @@
 
         layer_MapleStory_LOL {
             bindings = <
- &trans    &trans    &trans  &trans     &trans        &trans               &trans  &trans  &trans          &trans         &trans  &trans  &trans  &trans
- &trans    &trans    &trans  &trans     &trans        &trans               &trans  &trans  &trans     &kp PAGE_UP  &kp PAGE_DOWN  &trans  &trans  &trans
- &trans  &kp LEFT  &kp DOWN  &kp UP  &kp RIGHT        &trans               &trans  &trans  &trans                                 &trans  &trans  &trans  &trans  &kp INS  &kp HOME  &kp DEL  &kp END  &trans
- &trans    &trans    &trans  &trans     &trans        &trans               &trans  &trans   &kp A          &trans         &trans   &kp J  &trans  &trans  &trans   &trans    &trans   &trans   &trans  &trans
- &trans    &trans    &trans  &trans     &trans  &kp LEFT_ALT            &kp SPACE   &kp S   &kp K  &kp LEFT_SHIFT      &kp RCTRL  &trans  &trans  &trans  &trans   &trans
+ &trans    &trans    &trans  &trans     &trans          &trans               &trans  &trans  &trans          &trans         &trans  &trans  &trans  &trans
+ &trans    &trans    &trans  &trans     &trans  &macro_1k_drop               &trans  &trans  &trans     &kp PAGE_UP  &kp PAGE_DOWN  &trans  &trans  &trans
+ &trans  &kp LEFT  &kp DOWN  &kp UP  &kp RIGHT          &trans               &trans  &trans  &trans                                 &trans  &trans  &trans  &trans  &kp INS  &kp HOME  &kp DEL  &kp END  &trans
+ &trans    &trans    &trans  &trans     &trans          &trans               &trans  &trans   &kp A          &trans         &trans   &kp J  &trans  &trans  &trans   &trans    &trans   &trans   &trans  &trans
+ &trans    &trans    &trans  &trans     &trans    &kp LEFT_ALT            &kp SPACE   &kp S   &kp K  &kp LEFT_SHIFT      &kp RCTRL  &trans  &trans  &trans  &trans   &trans
             >;
         };
 
