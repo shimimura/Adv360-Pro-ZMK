@@ -1,3 +1,9 @@
+macro_1k_drop: macro_1k_drop{
+compatible = "zmk,behavior-macro";
+label = "macro_1k_drop";
+#binding-cells = <0>;
+bindings = <&kp N1>, <&kp N0>, <&kp N0>, <&kp N0>, <&kp ENTER>;
+};
 macro_alt_f4: macro_alt_f4{
 compatible = "zmk,behavior-macro";
 label = "macro_alt_f4";
