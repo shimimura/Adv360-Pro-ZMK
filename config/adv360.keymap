@@ -87,7 +87,7 @@
             >;
         };
 
-        layer_VAL_ {
+        layer_VAL {
             bindings = <
  &trans  &trans          &trans  &trans  &trans     &trans            &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
  &trans  &trans          &trans  &trans  &trans     &trans            &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
