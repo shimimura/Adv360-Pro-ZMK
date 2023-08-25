@@ -7,7 +7,8 @@
     "keypad",
     "fn",
     "mod",
-    "MapleStory LOL"
+    "MapleStory LOL",
+    "VAL?"
   ],
   "layers": [
     [
@@ -40,6 +41,12 @@
        "&trans", "&kp LEFT", "&kp DOWN", "&kp UP", "&kp RIGHT",         "&trans",              "&trans", "&trans", "&trans",                                    "&trans", "&trans", "&trans", "&trans", "&kp INS", "&kp HOME", "&kp DEL", "&kp END", "&trans",
        "&trans",   "&trans",   "&trans", "&trans",    "&trans",         "&trans",              "&trans", "&trans",  "&kp A",         "&trans",        "&trans",  "&kp J", "&trans", "&trans", "&trans",  "&trans",   "&trans",  "&trans",  "&trans", "&trans",
        "&trans",   "&trans",   "&trans", "&trans",    "&trans",   "&kp LEFT_ALT",           "&kp SPACE",  "&kp S",  "&kp K", "&kp LEFT_SHIFT",     "&kp RCTRL", "&trans", "&trans", "&trans", "&trans",  "&trans"
+    ], [
+       "&trans", "&trans",         "&trans", "&trans", "&trans",    "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
+       "&trans", "&trans",         "&trans", "&trans", "&trans",    "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
+       "&trans", "&trans",         "&trans", "&trans", "&trans",    "&trans",           "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
+       "&trans", "&trans",         "&trans", "&trans", "&trans",    "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
+       "&trans", "&trans", "&kp DOWN_ARROW", "&trans", "&trans", "&kp SPACE",           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans"
     ]
   ]
 }
